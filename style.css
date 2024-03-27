@@ -113,6 +113,67 @@ body {
         height: 100%;
     }
 
+   /* consultoria o servicios 24 */
+
+   #pmain { 
+    background-color: rgba(128, 128, 128, 0.645);
+    color:white;
+    font-size: 20px;
+    text-align: center;
+    text-shadow: 0 0.08em 0.08em black;
+    margin-bottom: 10.5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+    } 
+
+
+    .tile-row {
+        color:white;
+        background-color: rgba(128, 128, 128, 0.645);
+        
+        
+    }
+    .tile {
+        border: 1px solid black;
+        border-radius: 5px;
+        margin-top: 3px;
+    }
+    
+    h4 {
+        font-size: 20px;
+        text-align: center;
+        text-shadow: 0 0.08em 0.08em black;
+        margin-top: 10px;
+    } 
+
+    .tile p {
+        font-size: 14.5px; 
+        text-align: center;
+        margin-top:10.5px;
+        
+        
+    }
+
+     
+
+    .footer-contenedor {
+        margin-top: 30px;
+        text-align: center;
+        
+    }
+
+    h2 {
+        font-size: 16px;
+        color: aliceblue;
+        background-color: rgba(128, 128, 128, 0.645);
+        text-shadow: 0 0.08em 0.08em black;
+        box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.4);
+        
+    }
+
+
+
     .footer-contenedor {
         margin-top: 30px;
         text-align: center;
@@ -195,6 +256,38 @@ body {
         width: 60%;
         margin: auto;
     }
+    .tile-row {
+        display: flex;
+        background-color: transparent;
+        margin-bottom: 6.5em;
+        
+        
+     }
+
+     #pmain {
+        border-radius: 5px;
+        border: 1.5px solid black;
+        margin-bottom: 70px;
+        margin-right: 10px;
+        margin-left: 460px;
+        font-size: 26px;
+        width: 40%;
+        
+
+     }
+
+     .tile {
+        border-radius: 5px ;
+        border: 1.5px solid black;
+        background-color: rgba(128, 128, 128, 0.645);
+        margin-right: 10px;
+        margin-left: 10px;
+        width: 100%;
+        
+     }
+
+
+
     .footer-contenedor {
         margin-top: 10px;
         
